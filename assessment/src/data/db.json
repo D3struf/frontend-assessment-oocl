@@ -1,0 +1,13 @@
+{
+  "users": [
+    { "id": 1, "username": "john_doe", "email": "john@company.com", "password": "1234" },
+    { "id": 2, "username": "jane_smith", "email": "jane@company.com", "password": "pass123" },
+    { "id": 3, "username": "admin", "email": "admin@company.com", "password": "admin" }
+  ],
+  "employees": [
+    { "id": 1, "name": "John Doe", "position": "Developer", "department": "IT" },
+    { "id": 2, "name": "Jane Smith", "position": "Designer", "department": "Creative" },
+    { "id": 3, "name": "Admin User", "position": "Administrator", "department": "HR" }
+  ],
+  "timeRecords": []
+}
